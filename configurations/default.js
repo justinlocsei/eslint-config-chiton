@@ -8,7 +8,7 @@ module.exports = {
     "camelcase": 2,
     "comma-dangle": [2, "never"],
     "comma-spacing": 2,
-    "comma-style": [2, "first"],
+    "comma-style": [2, "last"],
     "computed-property-spacing": [2, "never"],
     "consistent-return": 2,
     "consistent-this": [2, "that"],
