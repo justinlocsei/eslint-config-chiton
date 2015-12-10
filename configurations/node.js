@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": "chiton/default",
+  "extends": "chiton/configurations/default",
   "env": {
     "node": true
   },
