@@ -1,6 +1,6 @@
 module.exports = {
   "rules": {
-    "accesor-pairs": 2,
+    "accessor-pairs": 2,
     "array-bracket-spacing": [2, "never"],
     "block-scoped-var": 2,
     "block-spacing": [2, "always"],
@@ -46,7 +46,7 @@ module.exports = {
     "no-extend-native": 2,
     "no-extra-bind": 2,
     "no-extra-boolean-cast": 2,
-    "no-extra-parents": 2,
+    "no-extra-parens": 2,
     "no-extra-semi": 2,
     "no-floating-decimal": 2,
     "no-func-assign": 2,
