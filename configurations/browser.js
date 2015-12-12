@@ -6,7 +6,6 @@ module.exports = {
   "rules": {
     "no-console": 1,
     "no-debugger": 1,
-    "no-script-url": 2,
-    "strict": [2, "function"]
+    "no-script-url": 2
   }
 };
