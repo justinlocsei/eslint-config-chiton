@@ -101,7 +101,7 @@ module.exports = {
     "object-curly-spacing": [2, "never"],
     "operator-linebreak": [2, "after"],
     "quote-props": [2, "as-needed"],
-    "quotes": [2, "double"],
+    "quotes": [2, "single"],
     "radix": 2,
     "semi": [2, "always"],
     "semi-spacing": [2, {"before": false, "after": true}],
