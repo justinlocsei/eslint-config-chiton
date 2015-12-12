@@ -4,7 +4,7 @@ module.exports = {
     "array-bracket-spacing": [2, "never"],
     "block-scoped-var": 2,
     "block-spacing": [2, "always"],
-    "brace-style": [2, "1tbs"],
+    "brace-style": [2, "1tbs", {"allowSingleLine": true}],
     "camelcase": 2,
     "comma-dangle": [2, "never"],
     "comma-spacing": 2,
