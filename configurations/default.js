@@ -13,7 +13,7 @@ module.exports = {
     "consistent-return": 2,
     "consistent-this": [2, "that"],
     "curly": 2,
-    "dot-location": [2, "object"],
+    "dot-location": [2, "property"],
     "dot-notation": 2,
     "eol-last": 2,
     "eqeqeq": 2,
