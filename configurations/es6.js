@@ -3,6 +3,9 @@ module.exports = {
   "env": {
     "es6": true
   },
+  "ecmaFeatures": {
+    "modules": true
+  },
   "rules": {
     "arrow-body-style": [2, "as-needed"],
     "arrow-parens": [2, "as-needed"],
