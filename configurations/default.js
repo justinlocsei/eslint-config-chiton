@@ -112,7 +112,7 @@ module.exports = {
     "space-unary-ops": [2, {"words": true, "nonwords": false}],
     "spaced-comment": [2, "always"],
     "use-isnan": 2,
-    "valid-jsdoc": 2,
+    "valid-jsdoc": [2, {"prefer": {"return": "returns"}, "requireReturn": false, "requireReturnDescription": false}],
     "valid-typeof": 2,
     "wrap-iife": [2, "outside"]
   }
