@@ -20,7 +20,6 @@ module.exports = {
     "func-style": [2, "declaration"],
     "guard-for-in": 2,
     "indent": [2, 2],
-    "jsx-quotes": [2, "prefer-double"],
     "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
     "linebreak-style": [2, "unix"],
     "lines-around-comment": [2, {"beforeBlockComment": true, "beforeLineComment": true}],
