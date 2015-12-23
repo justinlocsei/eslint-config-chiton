@@ -90,7 +90,7 @@ module.exports = {
     "no-unreachable": 2,
     "no-unused-expressions": 2,
     "no-unused-vars": 2,
-    "no-use-before-define": 2,
+    "no-use-before-define": [2, "nofunc"],
     "no-useless-concat": 2,
     "no-void": 2,
     "no-warning-comments": 1,
