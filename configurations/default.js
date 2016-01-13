@@ -94,7 +94,6 @@ module.exports = {
     "no-void": 2,
     "no-warning-comments": 1,
     "no-with": 2,
-    "object-curly-spacing": [2, "never"],
     "operator-linebreak": [2, "after"],
     "quote-props": [2, "consistent"],
     "quotes": [2, "single"],
