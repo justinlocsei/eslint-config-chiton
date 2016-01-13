@@ -8,7 +8,7 @@ module.exports = {
   },
   "rules": {
     "arrow-body-style": [2, "as-needed"],
-    "arrow-parens": [2, "as-needed"],
+    "arrow-parens": [2, "always"],
     "arrow-spacing": [2, {"after": true, "before": true}],
     "no-arrow-condition": 2,
     "no-class-assign": 2,
