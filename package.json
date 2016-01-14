@@ -1,9 +1,9 @@
 {
-  "name": "eslint-config-chiton",
+  "name": "eslint-config-justinlocsei",
   "version": "1.2.3",
-  "description": "Shareable ESLint configuration files for Chiton",
+  "description": "My ESLint configuration files",
   "main": "index.js",
-  "repository": "git://github.com/justinlocsei/eslint-config-chiton.git",
+  "repository": "git://github.com/justinlocsei/eslint-config-justinlocsei.git",
   "keywords": [
     "eslint",
     "eslintconfig"
@@ -11,7 +11,7 @@
   "author": "Justin Locsei <justin.locsei@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/justinlocsei/eslint-config-chiton/issues"
+    "url": "https://github.com/justinlocsei/eslint-config-justinlocsei/issues"
   },
-  "homepage": "https://github.com/justinlocsei/eslint-config-chiton"
+  "homepage": "https://github.com/justinlocsei/eslint-config-justinlocsei"
 }

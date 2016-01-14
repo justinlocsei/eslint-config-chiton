@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": "chiton/configurations/es6",
+  "extends": "justinlocsei/configurations/es6",
   "ecmaFeatures": {
     "jsx": true
   },

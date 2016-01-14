@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": "chiton/configurations/default",
+  "extends": "justinlocsei/configurations/default",
   "env": {
     "es6": true
   },

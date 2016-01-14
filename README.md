@@ -1,3 +1,4 @@
-# Chiton ESLint Configurations
+# ESLint Configurations
 
-This repository contains shareable ESLint configuration files used by Chiton.
+This repository contains shareable ESLint configuration files that reflect my
+preferred JavaScript style.

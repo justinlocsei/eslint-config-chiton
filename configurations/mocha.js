@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": "chiton/configurations/node",
+  "extends": "justinlocsei/configurations/node",
   "env": {
     "mocha": true
   },
