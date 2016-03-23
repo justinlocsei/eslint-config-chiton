@@ -11,7 +11,6 @@ module.exports = {
   ],
   "rules": {
     "jsx-quotes": [2, "prefer-double"],
-    "react/display-name": [2, {"acceptTranspilerName": true}],
     "react/jsx-boolean-value": [2, "always"],
     "react/jsx-curly-spacing": [2, "never"],
     "react/jsx-handler-names": 2,
